@@ -7,13 +7,13 @@
 
 <br>
 
-### 👋 เกี่ยวกับผม
+### 👋 ABOUT ME
 
 **Data Architect & Strategic Analyst** with **7+ years of experience** in Data Automation and Pipeline Optimization for large-scale datasets. Expert in translating complex business rules into robust programmatic logic and Credit Risk Analytics to mitigate portfolio risk and optimize sales incentives.
 
 Highly proficient in **SQL, SAS, and VBScript**, automating daily reporting workflows with a strong focus on building centralized Data Repositories and standardizing Master Data. Demonstrated ability to transform complex business requirements into high-impact Lead Generation and Portfolio Monitoring systems.
 
-- 🏦 Data Center & Data Analyst @ **ThaiCredit Bank** (Apr 2022 – ปัจจุบัน)
+- 🏦 Data Center & Data Analyst @ **ThaiCredit Bank** (Apr 2022 – Present)
 - 🎓 Bachelor's Degree of Applied Statistics and Master's Degree Materials Handling & Logistics [KMUTNB]
 - 🌐 My Portfolio : [my-resume-webapp.vercel.app](https://my-resume-webapp.vercel.app)
 
@@ -67,15 +67,15 @@ Highly proficient in **SQL, SAS, and VBScript**, automating daily reporting work
 <td width="50%" valign="top">
 
 **[my-resume-webapp](https://github.com/Kritsana-Kraiwitanusorn/my-resume-webapp)**
-พอร์ตโฟลิโอฉบับเต็ม พร้อม Live Demo
+My Portfolio with Live Demo
 `JavaScript` · `HTML` · `CSS`
-· [🔗 ดูเว็บจริง](https://my-resume-webapp.vercel.app)
+· [🔗 Link](https://my-resume-webapp.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
 **[my-smart-todo](https://github.com/Kritsana-Kraiwitanusorn/my-smart-todo)**
-Interactive To-Do List เน้นใช้งานง่าย
+Interactive To-Do List
 `CSS`
 
 </td>
@@ -100,48 +100,6 @@ Interactive To-Do List เน้นใช้งานง่าย
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00E5A0?style=for-the-badge&logo=linkedin&logoColor=0F1226)](https://linkedin.com/in/kritsana-kraiwitanusorn)
 [![Email](https://img.shields.io/badge/Email-FF6B4A?style=for-the-badge&logo=gmail&logoColor=0F1226)](mailto:Kritsanakraiwitanusorn@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFD166?style=for-the-badge&logo=vercel&logoColor=0F1226)](https://my-resume-webapp.vercel.app)
-
-</div>
-
-<div align="center">
-<sub>built with intent, not templates 🎯</sub>
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[my-resume-webapp](https://github.com/Kritsana-Kraiwitanusorn/my-resume-webapp)**
-Portfolio ส่วนตัวในรูปแบบเว็บแอปพลิเคชัน
-`JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-**[my-smart-todo](https://github.com/Kritsana-Kraiwitanusorn/my-smart-todo)**
-Interactive To-Do List เน้นใช้งานง่าย
-`CSS`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kritsana-Kraiwitanusorn&show_icons=true&hide_border=true&bg_color=0F1226&title_color=00E5A0&text_color=F1EEFB&icon_color=FF6B4A&ring_color=FFD166" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritsana-Kraiwitanusorn&layout=compact&hide_border=true&bg_color=0F1226&title_color=00E5A0&text_color=F1EEFB&langs_count=6" alt="Top Languages" height="165"/>
-</div>
-
-<br>
-
-### 📫 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00E5A0?style=for-the-badge&logo=linkedin&logoColor=0F1226)](https://linkedin.com/in/kritsana-kraiwitanusorn)
 
 </div>
 
