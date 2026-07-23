@@ -9,13 +9,13 @@
 
 ### 👋 เกี่ยวกับผม
 
-**Data Architect & Strategic Analyst** ประสบการณ์ **7+ ปี** ด้าน Data Automation และ Pipeline Optimization สำหรับข้อมูลขนาดใหญ่ ถนัดแปลงกฎเกณฑ์ทางธุรกิจที่ซับซ้อนให้กลายเป็น logic เชิงโปรแกรม และงาน Credit Risk Analytics เพื่อลดความเสี่ยงของพอร์ตและเพิ่มประสิทธิภาพ sales incentive
+**Data Architect & Strategic Analyst** with **7+ years of experience** in Data Automation and Pipeline Optimization for large-scale datasets. Expert in translating complex business rules into robust programmatic logic and Credit Risk Analytics to mitigate portfolio risk and optimize sales incentives.
 
-ถนัด **SQL, SAS, VBScript** สำหรับ automate งานรายงานประจำวัน เน้นสร้าง Data Repository ส่วนกลางและมาตรฐาน Master Data มีประสบการณ์แปลง business requirement ที่ซับซ้อนให้เป็นระบบ Lead Generation และ Portfolio Monitoring ที่ใช้งานได้จริง
+Highly proficient in **SQL, SAS, and VBScript**, automating daily reporting workflows with a strong focus on building centralized Data Repositories and standardizing Master Data. Demonstrated ability to transform complex business requirements into high-impact Lead Generation and Portfolio Monitoring systems.
 
 - 🏦 Data Center & Data Analyst @ **ThaiCredit Bank** (Apr 2022 – ปัจจุบัน)
-- 🎓 ปริญญาตรี Applied Statistics และปริญญาโท Materials Handling & Logistics จาก KMUTNB
-- 🌐 พอร์ตโฟลิโอฉบับเต็ม: [my-resume-webapp.vercel.app](https://my-resume-webapp.vercel.app)
+- 🎓 Bachelor's Degree of Applied Statistics and Master's Degree Materials Handling & Logistics [KMUTNB]
+- 🌐 My Portfolio : [my-resume-webapp.vercel.app](https://my-resume-webapp.vercel.app)
 
 <br>
 
