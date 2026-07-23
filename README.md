@@ -1,4 +1,5 @@
 ## Hi everyone Myname : "Kritsana Kraiwitanusorn" Nickname : "Best" 👋
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00E5A0&center=true&vCenter=true&width=600&lines=Data+Architect+%26+Strategic+Analyst;Turning+raw+data+into+decisions;Designing+schemas%2C+not+just+dashboards" alt="Typing SVG" />
@@ -81,15 +82,6 @@ Interactive To-Do List
 </td>
 </tr>
 </table>
-
-<br>
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kritsana-Kraiwitanusorn&show_icons=true&hide_border=true&bg_color=0F1226&title_color=00E5A0&text_color=F1EEFB&icon_color=FF6B4A&ring_color=FFD166" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritsana-Kraiwitanusorn&layout=compact&hide_border=true&bg_color=0F1226&title_color=00E5A0&text_color=F1EEFB&langs_count=6" alt="Top Languages" height="165"/>
-</div>
 
 <br>
 
