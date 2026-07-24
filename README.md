@@ -24,7 +24,7 @@ Highly proficient in **SQL, SAS, and VBScript**, automating daily reporting work
 
 | # | Field | Stack | Type |
 |---|-------|-------|:----:|
-| 01 | **Data Query & Database** | SQL (Advanced), SAS Base & EG, Notion Database | ![core](https://img.shields.io/badge/-CORE-00E5A0?style=flat-square&labelColor=0F1226) |
+| 01 | **Data Query & Database** | SQL (Advanced), SAS Base & EG, Notion  | ![core](https://img.shields.io/badge/-CORE-00E5A0?style=flat-square&labelColor=0F1226) |
 | 02 | **Programming & Scripting** | Python (Pandas, NumPy, Scikit-learn, Web Scraping), R, VBA/VBScript | ![core](https://img.shields.io/badge/-CORE-00E5A0?style=flat-square&labelColor=0F1226) |
 | 03 | **Data Visualization** | Power BI, Looker Studio, Excel (Advanced), Power Query (ETL) | ![core](https://img.shields.io/badge/-CORE-00E5A0?style=flat-square&labelColor=0F1226) |
 | 04 | **Statistical Tools** | SPSS, Minitab, Excel Analysis ToolPak | ![tool](https://img.shields.io/badge/-TOOL-FFD166?style=flat-square&labelColor=0F1226) |
