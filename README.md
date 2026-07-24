@@ -73,11 +73,20 @@ My Portfolio with Live Demo
 · [🔗 Link](https://my-resume-webapp.vercel.app)
 
 </td>
+
 <td width="50%" valign="top">
 
 **[my-smart-todo](https://github.com/Kritsana-Kraiwitanusorn/my-smart-todo)**
 Interactive To-Do List
 `CSS`
+
+</td>
+
+<td width="50%" valign="top">
+
+**[HOME LOAN LEDGER](https://buckbest-homeloan-monitor.ai.studio/)**
+Home Loan Installment Monitor
+`Google Ai Studio`, `Full Stack`
 
 </td>
 </tr>
