@@ -79,14 +79,16 @@ My Portfolio with Live Demo
 **[my-smart-todo](https://github.com/Kritsana-Kraiwitanusorn/my-smart-todo)**
 Interactive To-Do List
 `CSS`
+· [🔗 Link](https://my-smart-todo-9qbftk2ar-kritsana-kraiwitanusorns-projects.vercel.app/)
 
 </td>
 
 <td width="30%" valign="top">
 
-**[HOME LOAN LEDGER](https://buckbest-homeloan-monitor.ai.studio/)**
+**[HOME LOAN LEDGER](https://github.com/Kritsana-Kraiwitanusorn/Home-Loan-Monitor)**
 Home Loan Installment Monitor
 `Google Ai Studio`, `Full Stack`
+· [🔗 Link](https://buckbest-homeloan-monitor.ai.studio/)
 
 </td>
 </tr>
