@@ -65,7 +65,7 @@ Highly proficient in **SQL, SAS, and VBScript**, automating daily reporting work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 **[my-resume-webapp](https://github.com/Kritsana-Kraiwitanusorn/my-resume-webapp)**
 My Portfolio with Live Demo
@@ -74,7 +74,7 @@ My Portfolio with Live Demo
 
 </td>
 
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 **[my-smart-todo](https://github.com/Kritsana-Kraiwitanusorn/my-smart-todo)**
 Interactive To-Do List
@@ -82,7 +82,7 @@ Interactive To-Do List
 
 </td>
 
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 **[HOME LOAN LEDGER](https://buckbest-homeloan-monitor.ai.studio/)**
 Home Loan Installment Monitor
