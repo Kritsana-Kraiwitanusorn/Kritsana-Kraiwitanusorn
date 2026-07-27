@@ -103,6 +103,7 @@ Home Loan Installment Monitor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00E5A0?style=for-the-badge&logo=linkedin&logoColor=0F1226)](https://linkedin.com/in/kritsana-kraiwitanusorn)
 [![Email](https://img.shields.io/badge/Email-FF6B4A?style=for-the-badge&logo=gmail&logoColor=0F1226)](mailto:Kritsanakraiwitanusorn@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFD166?style=for-the-badge&logo=vercel&logoColor=0F1226)](https://my-resume-webapp.vercel.app)
+[![Google Developer Program](https://img.shields.io/bluesky/posts/:actor)
 
 </div>
 
