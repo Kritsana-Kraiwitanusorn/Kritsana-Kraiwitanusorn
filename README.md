@@ -1,8 +1,8 @@
-## Hi everyone Myname : "Kritsana Kraiwitanusorn" Nickname : "Best" 👋
+## Hi everyone Myname : "Kritsana Kraiwitanusorn" [Best] 👋
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00E5A0&center=true&vCenter=true&width=600&lines=Data+Architect+%26+Strategic+Analyst;Turning+raw+data+into+decisions;Designing+schemas%2C+not+just+dashboards" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00E5A0&center=true&vCenter=true&width=600&lines=Data+Center+%26+Strategic+Analyst;Turning+raw+data+into+decisions;Designing+schemas%2C+not+just+dashboards" alt="Typing SVG" />
 
 </div>
 
