@@ -92,6 +92,34 @@ Home Loan Installment Monitor
 
 </td>
 </tr>
+<tr>
+<td width="30%" valign="top">
+
+**[DCA WEALTH SIMULATOR](https://github.com/Kritsana-Kraiwitanusorn/DCA-Wealth-Simulator)**
+Dollar-Cost Averaging Investment Simulator
+`JavaScript`
+· [🔗 Link](https://dca-wealth-simulator-lufy63601.vercel.app/)
+
+</td>
+
+<td width="30%" valign="top">
+
+**[WEDDING](https://github.com/Kritsana-Kraiwitanusorn/wedding)**
+Personal Wedding Website
+`HTML` · `CSS`
+· [🔗 Link](https://kritsana-kraiwitanusorn.github.io/wedding/)
+
+</td>
+
+<td width="30%" valign="top">
+
+**[PROMPTHUP](https://github.com/Kritsana-Kraiwitanusorn/PromptHup)**
+Prompt Source Library
+`JavaScript`
+· [🔗 Link](https://kritsana-kraiwitanusorn.github.io/PromptHup/)
+
+</td>
+</tr>
 </table>
 
 <br>
