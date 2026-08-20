@@ -67,7 +67,7 @@ Highly proficient in **SQL, SAS, and VBScript**, automating daily reporting work
 <tr>
 <td width="30%" valign="top">
 
-**[my-resume-webapp](https://github.com/Kritsana-Kraiwitanusorn/my-resume-webapp)**
+**[MY-RESUME](https://github.com/Kritsana-Kraiwitanusorn/my-resume-webapp)**
 My Portfolio with Live Demo
 `JavaScript` · `HTML` · `CSS`
 · [🔗 Link](https://my-resume-webapp.vercel.app)
@@ -76,7 +76,7 @@ My Portfolio with Live Demo
 
 <td width="30%" valign="top">
 
-**[my-smart-todo](https://github.com/Kritsana-Kraiwitanusorn/my-smart-todo)**
+**[MY-SMART-TODO](https://github.com/Kritsana-Kraiwitanusorn/my-smart-todo)**
 Interactive To-Do List
 `CSS`
 · [🔗 Link](https://my-smart-todo-9qbftk2ar-kritsana-kraiwitanusorns-projects.vercel.app/)
@@ -85,7 +85,7 @@ Interactive To-Do List
 
 <td width="30%" valign="top">
 
-**[HOME LOAN LEDGER](https://github.com/Kritsana-Kraiwitanusorn/Home-Loan-Monitor)**
+**[HOME-LOAN-LEDGER](https://github.com/Kritsana-Kraiwitanusorn/Home-Loan-Monitor)**
 Home Loan Installment Monitor
 `Google Ai Studio`, `Full Stack`
 · [🔗 Link](https://buckbest-homeloan-monitor.ai.studio/)
@@ -95,7 +95,7 @@ Home Loan Installment Monitor
 <tr>
 <td width="30%" valign="top">
 
-**[DCA WEALTH SIMULATOR](https://github.com/Kritsana-Kraiwitanusorn/DCA-Wealth-Simulator)**
+**[DCA-WEALTH-SIMULATOR](https://github.com/Kritsana-Kraiwitanusorn/DCA-Wealth-Simulator)**
 Dollar-Cost Averaging Investment Simulator
 `JavaScript`
 · [🔗 Link](https://dca-wealth-simulator-lufy63601.vercel.app/)
@@ -104,7 +104,7 @@ Dollar-Cost Averaging Investment Simulator
 
 <td width="30%" valign="top">
 
-**[WEDDING](https://github.com/Kritsana-Kraiwitanusorn/wedding)**
+**[MY-WEDDING](https://github.com/Kritsana-Kraiwitanusorn/wedding)**
 Personal Wedding Website
 `HTML` · `CSS`
 · [🔗 Link](https://kritsana-kraiwitanusorn.github.io/wedding/)
@@ -113,7 +113,7 @@ Personal Wedding Website
 
 <td width="30%" valign="top">
 
-**[PROMPTHUP](https://github.com/Kritsana-Kraiwitanusorn/PromptHup)**
+**[PROMPT-HUP](https://github.com/Kritsana-Kraiwitanusorn/PromptHup)**
 Prompt Source Library
 `JavaScript`
 · [🔗 Link](https://kritsana-kraiwitanusorn.github.io/PromptHup/)
