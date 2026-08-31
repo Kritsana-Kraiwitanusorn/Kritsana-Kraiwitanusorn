@@ -114,11 +114,24 @@ Personal Wedding Website
 <td width="30%" valign="top">
 
 **[PROMPT-HUP](https://github.com/Kritsana-Kraiwitanusorn/PromptHup)**
-Prompt Source Library
+Prompt Source Library 1
 `JavaScript`
 · [🔗 Link](https://kritsana-kraiwitanusorn.github.io/PromptHup/)
 
 </td>
+</tr>
+
+<tr>
+<td width="30%" valign="top">
+
+**[PROMPT-LIBRARY](https://github.com/Kritsana-Kraiwitanusorn/prompt-library)**
+Prompt Source Library 2
+`JavaScript`· `CSS`· `PLpgSQL`· `HTML`
+· [🔗 Link](https://prompt-library-82ex6f7xj-kritsana-kraiwitanusorns-projects.vercel.app/)
+
+</td>
+
+
 </tr>
 </table>
 
