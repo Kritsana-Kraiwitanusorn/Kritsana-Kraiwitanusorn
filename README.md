@@ -127,7 +127,7 @@ Prompt Source Library 1
 **[PROMPT-LIBRARY](https://github.com/Kritsana-Kraiwitanusorn/prompt-library)**
 Prompt Source Library 2
 `JavaScript`· `CSS`· `PLpgSQL`· `HTML`
-· [🔗 Link](https://prompt-library-qyl5zv9pg-kritsana-kraiwitanusorns-projects.vercel.app)
+· [🔗 Link](https://prompt-library-mauve-one.vercel.app/)
 
 </td>
 
