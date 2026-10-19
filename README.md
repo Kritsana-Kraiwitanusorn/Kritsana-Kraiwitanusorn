@@ -66,79 +66,67 @@ Highly proficient in **SQL, SAS, and VBScript**, automating daily reporting work
 <table>
 <tr>
 <td width="30%" valign="top">
-
 **[MY-RESUME](https://github.com/Kritsana-Kraiwitanusorn/my-resume-webapp)**
 My Portfolio with Live Demo
 `JavaScript` · `HTML` · `CSS`
 · [🔗 Link](https://my-resume-webapp.vercel.app)
-
 </td>
 
 <td width="30%" valign="top">
-
 **[MY-SMART-TODO](https://github.com/Kritsana-Kraiwitanusorn/my-smart-todo)**
 Interactive To-Do List
 `CSS`
 · [🔗 Link](https://my-smart-todo-9qbftk2ar-kritsana-kraiwitanusorns-projects.vercel.app/)
-
 </td>
 
 <td width="30%" valign="top">
-
 **[HOME-LOAN-LEDGER](https://github.com/Kritsana-Kraiwitanusorn/Home-Loan-Monitor)**
 Home Loan Installment Monitor
 `Google Ai Studio`, `Full Stack`
 · [🔗 Link](https://buckbest-homeloan-monitor.ai.studio/)
-
 </td>
-</tr>
-<tr>
-<td width="30%" valign="top">
 
+<tr>
+</tr>
+
+<td width="30%" valign="top">
 **[DCA-WEALTH-SIMULATOR](https://github.com/Kritsana-Kraiwitanusorn/DCA-Wealth-Simulator)**
 Dollar-Cost Averaging Investment Simulator
 `JavaScript`
 · [🔗 Link](https://dca-wealth-simulator-lufy63601.vercel.app/)
-
 </td>
 
 <td width="30%" valign="top">
-
 **[MY-WEDDING](https://github.com/Kritsana-Kraiwitanusorn/wedding)**
 Personal Wedding Website
 `HTML` · `CSS`
 · [🔗 Link](https://kritsana-kraiwitanusorn.github.io/wedding/)
-
 </td>
 
 <td width="30%" valign="top">
-
 **[PROMPT-HUP](https://github.com/Kritsana-Kraiwitanusorn/PromptHup)**
 Prompt Source Library 1
 `JavaScript`
 · [🔗 Link](https://kritsana-kraiwitanusorn.github.io/PromptHup/)
-
 </td>
 
-<td width="30%" valign="top">
-
-**[PROMPT-LIBRARY](https://github.com/Kritsana-Kraiwitanusorn/prompt-library)**
-Prompt Source Library 2
-`JavaScript`· `CSS`· `PLpgSQL`· `HTML`
-· [🔗 Link](https://prompt-library-mauve-one.vercel.app/)
-
-</td>
-
-
-<td width="30%" valign="top">
-
-**[PROMPT-LIBRARY](https://github.com/Kritsana-Kraiwitanusorn/prompt-library)**
-Prompt Source Library 2
-`JavaScript`· `CSS`· `PLpgSQL`· `HTML`
-· [🔗 Link](https://prompt-library-mauve-one.vercel.app/)
-
-</td>
+<tr>
 </tr>
+
+<td width="30%" valign="top">
+**[PROMPT-LIBRARY](https://github.com/Kritsana-Kraiwitanusorn/prompt-library)**
+Prompt Source Library 2
+`JavaScript`· `CSS`· `PLpgSQL`· `HTML`
+· [🔗 Link](https://prompt-library-mauve-one.vercel.app/)
+</td>
+
+<!-- <td width="30%" valign="top">
+**[SECOND BRAIN]**
+My Second Brain : Ai Programming · Stock · Learning
+`Notion`· `Second Brain`
+· [🔗 Link]([https://prompt-library-mauve-one.vercel.app/](https://app.notion.com/p/wiki-39f7a02760c0818bb1c4fe2c7e620ff8?source=copy_link))
+</td> -->
+
 </table>
 
 <br>
