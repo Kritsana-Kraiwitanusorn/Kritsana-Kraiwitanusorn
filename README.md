@@ -119,9 +119,7 @@ Prompt Source Library 1
 · [🔗 Link](https://kritsana-kraiwitanusorn.github.io/PromptHup/)
 
 </td>
-</tr>
 
-<tr>
 <td width="30%" valign="top">
 
 **[PROMPT-LIBRARY](https://github.com/Kritsana-Kraiwitanusorn/prompt-library)**
@@ -132,6 +130,14 @@ Prompt Source Library 2
 </td>
 
 
+<td width="30%" valign="top">
+
+**[PROMPT-LIBRARY](https://github.com/Kritsana-Kraiwitanusorn/prompt-library)**
+Prompt Source Library 2
+`JavaScript`· `CSS`· `PLpgSQL`· `HTML`
+· [🔗 Link](https://prompt-library-mauve-one.vercel.app/)
+
+</td>
 </tr>
 </table>
 
