@@ -136,10 +136,10 @@ Prompt Source Library 2
 
 <td width="30%" valign="top">
   
-**[SECOND BRAIN](https://app.notion.com/p/wiki-39f7a02760c0818bb1c4fe2c7e620ff8?source=copy_link)**
+**[SECOND BRAIN](https://app.notion.com/p/index-39f7a02760c0814a9d75c79c0a508faa)**
 My Second Brain : Ai Programming · Stock · Learning
 `Notion`· `Second Brain`
-· [🔗 Link](https://app.notion.com/p/wiki-39f7a02760c0818bb1c4fe2c7e620ff8?source=copy_link)
+· [🔗 Link](https://app.notion.com/p/index-39f7a02760c0814a9d75c79c0a508faa)
 
 </td> 
 </tr>
